@@ -4,8 +4,8 @@
 xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-jxxghp/MoviePilot
+jxxghp/moviepilot:latest
 linuxserver/jackett
 gdy666/lucky
 hslr/sun-panel
-nyanmisaka/jellyfin:latest
+nyanmisaka/jellyfin
